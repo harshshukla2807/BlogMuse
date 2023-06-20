@@ -14,7 +14,7 @@ const links = [
   },
   {
     id: 2,
-    title: "Portfolio",
+    title: "Portfolios",
     url: "/portfolio",
   },
   {
@@ -29,7 +29,7 @@ const links = [
   },
   {
     id: 5,
-    title: "Contact",
+    title: "Connect",
     url: "/contact",
   },
   {
